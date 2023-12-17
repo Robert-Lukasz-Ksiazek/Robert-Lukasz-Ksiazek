@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front and Back End Development
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Instagram -> robert.lukasz.ksiazek | Twitter -> @_robertksiazek_
+- 📫 How to reach me : hi@robertksiazek.com | Instagram -> robert.lukasz.ksiazek | Twitter -> @_robertksiazek_
 
 <!---
 Robert-Lukasz-Ksiazek/Robert-Lukasz-Ksiazek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
